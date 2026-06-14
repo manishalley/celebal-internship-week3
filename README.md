@@ -50,3 +50,7 @@ Develop an end-to-end Customer Intelligence System using clustering (K-Means, DB
 
 ## Tools & Libraries
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+---
+##Author
+Manish Alley
