@@ -44,7 +44,7 @@ Develop an end-to-end Customer Intelligence System using clustering (K-Means, DB
 ---
 
 ## Files
-- `week3_Manish.ipynb` – main notebook
+- `week3_Manish_Alley.ipynb` – main notebook
 
 ---
 
